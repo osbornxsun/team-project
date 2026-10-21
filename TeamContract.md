@@ -57,6 +57,6 @@ All members agree to provide honest and fair peer evaluations.
 
 By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract is binding for the duration of the course and may be revised with the agreement of all team members.
 
-Team Member Signatures: 1012270560, 1012182781, 1012279384
+Team Member Signatures: 1012270560, 1012182781, 1012279384, 1010939629
 
-Xiaosheng Sun, Shivanshu Rajeev, Jiahong Zheng
+Xiaosheng Sun, Shivanshu Rajeev, Jiahong Zheng, Quinton Gao
